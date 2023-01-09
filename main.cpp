@@ -1,8 +1,7 @@
 /********************************************************************************
-* main.cpp: Implementering av en enkel modell som baseras på linjär regression,
-*           med träningsdata deklarerat direkt i funktionen main och lagrat via
-*           två vektorer. Träningsdatan kan ändras hur som helst vid behov, men
-*           antalet in- och utsignaler måste vara samma för lyckad träning.
+* main.cpp: Implementering av en enkel modell som baseras på linjär regression.
+*           Slutför medlemsfunktioner i strukten lin_reg så att modellen 
+*           predikterar i enlighet med formeln y = 10x + 2.
 ********************************************************************************/
 #include "lin_reg.hpp"
 
